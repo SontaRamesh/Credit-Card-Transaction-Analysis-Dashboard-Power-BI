@@ -13,7 +13,7 @@ This interactive **Credit Card Transaction Analysis Dashboard** provides detaile
 ---
 
 ## 📊 About the Dataset
-- **Source:** Kaggle  
+- **Source:** [Kaggle](https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset/data)  
 - **Columns Included:** `trans_date_trans_time`, `cc_num`, `category`, `amt`, `gender`, `trans_num`, `Full_Name`  
 - **Data Preparation:**
   - Formatted the data types of all columns  
