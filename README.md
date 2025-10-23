@@ -35,20 +35,6 @@ This interactive **Credit Card Transaction Analysis Dashboard** provides detaile
 
 ---
 
-## 📈 Dashboard Insights
-
-- 💰 **Total Spend:** $169.57K  
-- 🔢 **Total Transactions:** 1662  
-- 💵 **Average Transaction Value:** $102.03  
-
-### 💸 Spend by Category
-- 🛒 **Shop Online:** $55.34K  
-- 🎬 **Entertainment:** $20.94K  
-- 🏡 **Home:** $30.58K  
-- 💅 **Personal Care:** $62.71K  
-
----
-
 ## 🧠 Dashboard Features
 
 - 📊 **4 KPI Cards** showing Total Spend by category  
