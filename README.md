@@ -4,7 +4,7 @@
 
 ## 🖼️ Dashboard Preview
 
-<img src="Screenshot 2025-10-23 164706.png" alt="Credit Card Transaction Analysis Dashboard" width="100%">
+<img src="Credit_transaction_analysis_dashboard.png" alt="Credit Card Transaction Analysis Dashboard" width="100%">
 
 ---
 
