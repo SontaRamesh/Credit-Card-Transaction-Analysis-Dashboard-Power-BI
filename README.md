@@ -56,5 +56,5 @@ This interactive **Credit Card Transaction Analysis Dashboard** provides detaile
 
 ## 👨‍💻 Author
 
-**Ramesh Sonta**  
+**Sonta  Ramesh**  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/sonta-ramesh/)
